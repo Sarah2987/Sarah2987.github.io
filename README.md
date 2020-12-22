@@ -36,7 +36,7 @@
 <br>
 
 <label for="email">Email:</label>
-<input type="email" id="email" name="email"placeholder="type your Email"> 
+<input type="email" id="email" name="email" placeholder="type your Email"> 
 <br>
  
 <label for="ID">ID:</label>
@@ -45,7 +45,7 @@
 
 
 <label for="URL">URL:</label>
-<input type="url" id="URL" name="URL"placeholder="type your URL"> 
+<input type="url" id="URL" name="URL" placeholder="type your URL"> 
 
 <br> 
 
